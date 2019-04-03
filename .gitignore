@@ -1,3 +1,6 @@
+/temporary.atatiki.com.crt
+/temporary.atatiki.com.key
+/test-ssl-web-server
 # Binaries for programs and plugins
 *.exe
 *.exe~
